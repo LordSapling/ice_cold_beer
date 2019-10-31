@@ -26,3 +26,11 @@ The player chatacter is simply just the rod. Which will try to assist the ball i
 On this day we made a physical prototype of the game. We need to create the "doo dads" that move the ramp up and down with player imput. Step 1 is to make one first. We know we are using mouse and keyboard, so no matterwhta platform we ultamilty release the game we have to have a way to control it on the computer. We need to make a control so we can test the game.
 Commonly games use "wasd" or the arrows keys, so maybe "w" is up, and "s" is down, for arrows, up is up, down is down, for a mouse, left and right click could also work. 
 In the interest of moving on quickly, we are just going to use "wasd" and arrow keys.
+
+### Assets of Interest
+Theme: Space/Sky
+1. Background: https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717 : A outerspace like background.
+2. Ball: https://stealthix.itch.io/animated-fires : A comet looking ball.
+3. Walls: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182 : One of these could be the walls maybe even the ramp as well.
+4. Ramp: https://yonkousama.itch.io/vector-planets : Could use one of the comets on here as a ramp, just need to stretch it out.
+5. "Holes": https://yonkousama.itch.io/vector-planets : Some planets maybe your "comet" could "visit".
