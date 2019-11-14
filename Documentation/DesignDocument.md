@@ -34,3 +34,9 @@ Theme: Space/Sky
 3. Walls: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182 : One of these could be the walls maybe even the ramp as well.
 4. Ramp: https://yonkousama.itch.io/vector-planets : Could use one of the comets on here as a ramp, just need to stretch it out.
 5. "Holes": https://yonkousama.itch.io/vector-planets : Some planets maybe your "comet" could "visit".
+
+### Sound Design Possibilities
+1. Background: https://freesound.org/people/levelclearer/sounds/238558/ : A nice background that could work for both a sky or like space like feeling. Might need a cut at the end so it sounds like it didn't end every loop.
+2. Goal Victory: https://freesound.org/people/xtrgamr/sounds/277441/ : I suppose this one could work for a victory.
+3. Wall Bump: https://freesound.org/people/Raclure/sounds/483602/ : When bumping into a wall, maybe this one could work.
+4. Ball Rolling Sound?: https://freesound.org/people/SquirmTheVerm/sounds/260778/ : Just an idea, could be better for a sound of a ball rolling around, placeholder perhaps.
