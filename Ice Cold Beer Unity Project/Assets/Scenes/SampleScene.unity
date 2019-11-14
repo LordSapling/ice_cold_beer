@@ -286,6 +286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b0a8a760cc230343ae89e5b0f825970, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  winText: {fileID: 2111227337}
 --- !u!58 &385561970
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1435,7 +1436,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2111227338
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1503,7 +1504,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: You Win
 --- !u!222 &2111227341
 CanvasRenderer:
   m_ObjectHideFlags: 0
