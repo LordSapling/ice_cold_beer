@@ -1199,7 +1199,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c9db73d1a6ceb2043b319ee28ea3d000, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.1
+  m_Volume: 0.02
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1374,8 +1374,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 93954c4f3d77ab74db79332b2f75946c, type: 3}
-  m_Color: {r: 0, g: 0.073005676, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: ec39287532e537743bf71746607ac09d, type: 3}
+  m_Color: {r: 0, g: 0.12261057, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1393,8 +1393,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1181324263}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.39, y: 2.68, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 6.028, y: 1.292, z: 0}
+  m_LocalScale: {x: 0.05257508, y: 0.05257508, z: 0.05257508}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -1414,7 +1414,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 11.215967
 --- !u!1 &1274118533
 GameObject:
   m_ObjectHideFlags: 0
