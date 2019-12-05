@@ -29,11 +29,12 @@ In the interest of moving on quickly, we are just going to use "wasd" and arrow 
 
 ### Assets of Interest
 Theme: Space/Sky
-1. Background: https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717 : A outerspace like background.
-2. Ball: https://stealthix.itch.io/animated-fires : A comet looking ball.
+1. Background: https://www.vecteezy.com/vector-art/190741-ultra-violet-galactic-background-free-vector : A outerspace like background.
+2. Ball: https://www.goodfreephotos.com/vector-images/fireball-clipart.png.php : A blackhole looking ball.
 3. Walls: https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182 : One of these could be the walls maybe even the ramp as well.
-4. Ramp: https://yonkousama.itch.io/vector-planets : Could use one of the comets on here as a ramp, just need to stretch it out.
-5. "Holes": https://yonkousama.itch.io/vector-planets : Some planets maybe your "comet" could "visit".
+4. Ramp: https://www.trzcacak.rs/imgm/ixRJh_rock-clipart-png/ : Used a part of this rock, just needed to stretch it out.
+5. "Holes": https://www.pngfly.com/png-81rxhc/ : Earth/planet, the planet(s) you want to avoid destroying.
+6. Goal: https://www.goodfreephotos.com/vector-images/fireball-clipart.png.php : A blackhole, it takes a blackhole to destroy a blackhole... obviously.
 
 ### Sound Design Possibilities
 1. Background: https://freesound.org/people/levelclearer/sounds/238558/ : A nice background that could work for both a sky or like space like feeling. Might need a cut at the end so it sounds like it didn't end every loop.
