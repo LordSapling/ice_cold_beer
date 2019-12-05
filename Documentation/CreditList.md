@@ -1,5 +1,5 @@
 ### Assets of Interest
-https://github.com/LordSapling/ice_cold_beer/issues/3
+(Image here: https://github.com/LordSapling/ice_cold_beer/issues/3)
 
 Theme: Space/Sky
 1. Background: https://www.vecteezy.com/vector-art/190741-ultra-violet-galactic-background-free-vector
