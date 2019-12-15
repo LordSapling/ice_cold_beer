@@ -8,3 +8,4 @@ Theme: Space/Sky
 4. Ramp: https://www.trzcacak.rs/imgm/ixRJh_rock-clipart-png/
 5. "Holes": https://www.pngfly.com/png-81rxhc/
 6. Goal: https://www.goodfreephotos.com/vector-images/fireball-clipart.png.php
+7. "Holes" 2: https://freesvg.org/star2
